@@ -1,0 +1,12 @@
+# ninja log v5
+591	1810	7162688106168459	sfml_project.exe	b83c968f34a2e653
+38	1337	7370012061014957	CMakeFiles/_sfmlTemplate.dir/MergeSort.cpp.obj	482bc159e1b20749
+3	628	7399258064026319	CMakeFiles/_sfmlTemplate.dir/main.cpp.obj	9f5689a1e3937e68
+629	1498	7399258072687126	_sfmlTemplate.exe	f54a5c1a6e64dc22
+16	830	7399257571240500	CMakeFiles/_sfmlTemplate.dir/Application.cpp.obj	511eeede4ca39fa7
+2	882	7373371692552336	CMakeFiles/_sfmlTemplate.dir/ItemList.cpp.obj	df9fa0d5e32fe4c4
+4	3029	7518551918590623	CMakeFiles/_sfmlTemplate.dir/main.cpp.obj	866f1f6e7bf649af
+26	3110	7518551919387029	CMakeFiles/_sfmlTemplate.dir/MergeSort.cpp.obj	37410e5e57a7e8a1
+10	3148	7518551919732367	CMakeFiles/_sfmlTemplate.dir/Application.cpp.obj	22042e2bddf1d210
+22	3285	7518551921143756	CMakeFiles/_sfmlTemplate.dir/ItemList.cpp.obj	aa47a8d4be97af07
+3285	4184	7518551929931002	_sfmlTemplate.exe	f54a5c1a6e64dc22
