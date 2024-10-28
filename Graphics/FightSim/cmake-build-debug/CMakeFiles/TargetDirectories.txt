@@ -1,0 +1,3 @@
+C:/Users/jacki/CLionProjects/FightSim/cmake-build-debug/CMakeFiles/FightSim.dir
+C:/Users/jacki/CLionProjects/FightSim/cmake-build-debug/CMakeFiles/edit_cache.dir
+C:/Users/jacki/CLionProjects/FightSim/cmake-build-debug/CMakeFiles/rebuild_cache.dir
